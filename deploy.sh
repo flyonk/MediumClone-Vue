@@ -20,7 +20,7 @@ git add -A
 git commit -m 'deploy'
 
 ## if you are deploying to https://<USERNAME>.github.io
-git push -f https://github.com/flyonk/flyonk-portfolio.git master:gh-pages
+git push -f https://github.com/flyonk/MediumClone-Vue master:gh-pages
 
 ## if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f https://<USERNAME>.github.io/<REPO> master:gh-pages
